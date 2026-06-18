@@ -205,9 +205,9 @@ WindUI.Services.pandauth_cookies = {
 --  Create Window
 -- ─────────────────────────────────────────────
 local Window = WindUI:CreateWindow({
-    Title  = "My Hub",
+    Title  = "Nexus Hub",
     Icon   = "zap",
-    Author = "by You",
+    Author = "by RedDoritosGood",
     Folder = "MyHub",
 
     Size        = UDim2.fromOffset(580, 460),
